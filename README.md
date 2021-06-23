@@ -32,7 +32,7 @@ This software was used in the completion of Masters thesis and
 subsequent publication on the topic of localization in spatial 
 dependent quantum walks.
 
-- Sharma R. Nature of Hierarchical Quantum Walks: Localization and delocalization, Masters of Physics, Emory University 2021
+- Sharma R. *Nature of Hierarchical Quantum Walks: Localization and delocalization*, Masters of Physics, Emory University 2021
 
 
 ## License
