@@ -8,9 +8,9 @@ of statistical measures and dynamics of quantum walks. This is the first
 of its kind project that deals with Anderson Localization in a spatially dependent 
 disorders which were based on the following publications.
 
-- S Boettcher. Quantum Ultra Walks: Walks on a line with hierarchical spatial heterogeneity. 2020. DOI:10.1103/PhysRevResearch.2.023411
+- S Boettcher. *Quantum Ultra Walks: Walks on a line with hierarchical spatial heterogeneity*. 2020. DOI:10.1103/PhysRevResearch.2.023411
 
-- Flach et.al. Anderson localization in generalized discrete-time quantum walks. 2017.  
+- Flach et.al. *Anderson localization in generalized discrete-time quantum walks*. 2017.  
      DOI:10.1103/PhysRevB.96.144204
 
 Currently the software offers the implementation of 
